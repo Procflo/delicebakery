@@ -1,2 +1,3 @@
 # delicebakery
-Repo for delice bakery
+Repo for Delice bakery
+Hosting files and opening on-site visits.
